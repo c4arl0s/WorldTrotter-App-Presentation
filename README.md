@@ -77,4 +77,20 @@ This app converts values between degrees Fahrenheit and degrees Celsius.
 11. [ ] [11. Silver Challenge: User's Location](https://github.com/c4arl0s/6ProgrammaticViews_MapView/blob/master/README.md#11-silver-challenge-users-location)
 12. [ ] [12. Gold Challenge: Dropping Pins](https://github.com/c4arl0s/6ProgrammaticViews_MapView/blob/master/README.md#12-gold-challenge-dropping-pins)
 
-# [End of WorldTrotter App]()
+# [7. Localization](https://github.com/c4arl0s/7Localization#7-localization)
+
+| At a glance: Notes                                                                                                           |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/75219094-7aafb080-5761-11ea-950a-f2d94080b7d2.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/105218254-872bbd00-5b1a-11eb-945a-8bf9126e5c11.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/105283146-7b211900-5b75-11eb-8e9d-23939dbaaf93.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/105284067-4c0ba700-5b77-11eb-903c-49d0db1ea54a.png" width="250"> |
+
+1. [x] [1. Internationalization](https://github.com/c4arl0s/7Localization#1-internationalization)
+2. [x] [2. Formatters](https://github.com/c4arl0s/7Localization#2-formatters)
+3. [x] [3. Base internationalization](https://github.com/c4arl0s/7Localization#3-base-internationalization)
+4. [x] [4. Preparing for localization](https://github.com/c4arl0s/7Localization#4-preparing-for-localization)
+5. [x] [5. Localization](https://github.com/c4arl0s/7Localization#5-localization)
+6. [x] [6. NSLocalizedString and strings tables](https://github.com/c4arl0s/7Localization#6-nslocalizedstring-and-strings-tables)
+7. [x] [7. Bronze Challenge: Another Localization](https://github.com/c4arl0s/7Localization#7-bronze-challenge-another-localization)
+8. [x] [8. For the More Curious: Bundle’s Role in Internationalization](https://github.com/c4arl0s/7Localization#8-for-the-more-curious-bundles-role-in-internationalization)
+9. [x] [9. For the More Curious: Importing and Exporting as XLIFF](https://github.com/c4arl0s/7Localization#9-for-the-more-curious-importing-and-exporting-as-xliff)
+
+### [End of WorldTrotter App](https://github.com/c4arl0s/7Localization#internationalize-mapviewcontroller)
