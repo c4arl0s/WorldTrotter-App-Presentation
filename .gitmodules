@@ -1,0 +1,15 @@
+[submodule "3ViewsAndTheViewHierarchy"]
+	path = 3ViewsAndTheViewHierarchy
+	url = git@github.com:c4arl0s/3ViewsAndTheViewHierarchy.git
+[submodule "4TextInputAndDelegation"]
+	path = 4TextInputAndDelegation
+	url = git@github.com:c4arl0s/4TextInputAndDelegation.git
+[submodule "5ViewControllers"]
+	path = 5ViewControllers
+	url = git@github.com:c4arl0s/5ViewControllers.git
+[submodule "6ProgrammaticViews"]
+	path = 6ProgrammaticViews
+	url = git@github.com:c4arl0s/6ProgrammaticViews.git
+[submodule "7Localization"]
+	path = 7Localization
+	url = git@github.com:c4arl0s/7Localization.git
