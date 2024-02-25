@@ -1,5 +1,11 @@
 # [go back to overview](https://github.com/c4arl0s#ios-apps-using-swiftuikit)
 
+In order to update an existing Git submodule execute: (You might need permissions from Owner to get submodules)
+
+```console
+git submodule update --remote --merge
+```
+
 # [Beginning of WorldTrotter App](https://github.com/c4arl0s/3ViewsAndTheViewHierarchy#3-views-and-the-view-hierarchy---content)
 
 This app converts values between degrees Fahrenheit and degrees Celsius.
